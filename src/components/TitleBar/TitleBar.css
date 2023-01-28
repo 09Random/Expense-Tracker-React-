@@ -1,0 +1,8 @@
+.title-bar {
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+  border-radius: 0px 0px 50px 50px;
+  color: white;
+  background-color: #62b371;
+}
